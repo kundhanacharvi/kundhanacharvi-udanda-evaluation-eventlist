@@ -1,0 +1,20 @@
+{
+  "name": "kundhanacharvi-udanda-evaluation-eventlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kundhanacharvi/kundhanacharvi-udanda-evaluation-eventlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kundhanacharvi/kundhanacharvi-udanda-evaluation-eventlist/issues"
+  },
+  "homepage": "https://github.com/kundhanacharvi/kundhanacharvi-udanda-evaluation-eventlist#readme"
+}
