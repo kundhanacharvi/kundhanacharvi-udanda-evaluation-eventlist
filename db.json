@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": "775e",
+      "name": "Dentist Appointment",
+      "startDate": "2025-07-12",
+      "endDate": "2025-07-12"
+    },
+    {
+      "id": "06df",
+      "name": "Golf Match",
+      "startDate": "2025-07-13",
+      "endDate": "2025-07-13"
+    }
+  ]
+}
